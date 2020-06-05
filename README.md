@@ -10,4 +10,5 @@ Independent Projects and Competition Submissions on Data Science, Machine and De
    - Position: Top 17% (94.5% Accurary)
    - Model: CNN (Modified LeNet)
    - Data Preprocessing: Data Augmentation (Translate and Rotate-Crop)
+   - Regularization: Dropout (0.2)
    
