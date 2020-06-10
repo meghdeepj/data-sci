@@ -9,7 +9,7 @@ Independent Projects and Competition Submissions on Data Science, Machine and De
 2. MNIST Digit Recognizer - Kaggle
    - Position: Top 18% [94.5% Accuracy] (91% without data augmentation)
    - Model: CNN (Modified LeNet, 2Conv, 2FC)
-   - Data Preprocessing: Data Augmentation (Translate and Rotate-Crop)
+   - Data Preprocessing: Normalization and Data Augmentation (Translate and Rotate-Crop)
    - Optimizer: SGD + momentum with Step LR decay
    - Regularization: Dropout (0.2)
    
@@ -17,6 +17,6 @@ Independent Projects and Competition Submissions on Data Science, Machine and De
    - Position: 81% Accuracy (74% without data augmentation)
    - Model: CNN (4 Conv, 3FC) 
    - Optimizer: Adam with LR decay
-   - Data Preprocessing: Data Augmentation (Translate, Rotate and Zoom)
+   - Data Preprocessing: Normalization and Data Augmentation (Translate, Rotate and Zoom)
    - Regularization: Dropout (0.25)
    
