@@ -18,5 +18,5 @@ Independent Projects and Competition Submissions on Data Science, Machine and De
    - Model: CNN (4 Conv, 3FC) 
    - Optimizer: Adam with LR decay
    - Data Preprocessing: Normalization and Data Augmentation (Translate, Rotate and Zoom)
-   - Regularization: Dropout (0.25)
+   - Regularization: Dropout (0.25) or BatchNormalisation [Both gave similar performance]
    
