@@ -21,9 +21,9 @@ Independent Projects and Competition Submissions on Data Science, Machine and De
    - Regularization: Dropout (0.25) or BatchNormalisation [Both gave similar performance]
    
 3. Facial Keypoint Detection - Kaggle [Link](https://www.kaggle.com/c/facial-keypoints-detection)
-- Position: 2.456 (Mean Average Error)
-- Model: CNN (3 Conv, 3FC) 
-- Optimizer: Adam with LR decay
-- Data Preprocessing: Normalization
-- Regularization: Dropout (0.25)
+   - Position: 2.456 (Mean Average Error)
+   - Model: CNN (3 Conv, 3FC) 
+   - Optimizer: Adam with LR decay
+   - Data Preprocessing: Normalization
+   - Regularization: Dropout (0.25)
 
